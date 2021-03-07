@@ -33,3 +33,12 @@ str1= "abcdefgabcd"
 solution=Solution()
 max=solution.lengthOfLongestSubstring(str1)
 print (max)
+
+'''
+题目难度：中等
+一次性用python通过
+目前没有看其他题目
+十分喜悦，这是我第一次完全用自己的知识在5min之内用python写出来
+说明我的python基础课程没有白上！
+2021.3.7
+```
